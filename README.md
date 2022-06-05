@@ -2,7 +2,7 @@
 
 
 - 💻 Right now I'm studying software development.
-- 🤓 I am at the start of my journey so I am really waiting for the day I look back at my current projects and see how far I've come.
+- 🤓 I am at the start of my journey, can't wait to look back on my current projects and see how far I've come.
 - 📌 My main focus right now is probably everything front end.. we'll see.
 
 
