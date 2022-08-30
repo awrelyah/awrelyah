@@ -1,9 +1,8 @@
-### Hey you👋
+### H👋
 
 
 - 💻 Right now I'm studying software development.
-- 🤓 I am at the start of my journey, can't wait to look back on my current projects and see how far I've come.
-- 📌 My main focus right now is probably everything front end.. we'll see.
+- 📌 I am currently focusing on finishing The Odin Project.
 
 
 
