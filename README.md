@@ -1,4 +1,4 @@
-### H👋
+### Hey 👋
 
 
 - 💻 Right now I'm studying software development.
