@@ -2,7 +2,8 @@
 
 
 - 💻 Right now I'm studying software development.
-- 📌 I am currently focusing on finishing The Odin Project.
+- 📌 I'm currently focusing on everything front end.
+- 🌱 Currently learning React.
 
 
 
