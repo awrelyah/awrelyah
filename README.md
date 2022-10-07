@@ -1,4 +1,4 @@
-<div align="center"> <h2>Hey there 👋</h2>
+<div align="center"> <h2> hey there 👋🏼 </h2>
 
 Right now I'm studying software development. I'm mostly focusing on front end right now and just recently started to learn React. 🌱 
 
