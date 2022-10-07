@@ -1,4 +1,4 @@
-### Hey 👋
+<div align="center"> <h2>Hey there 👋</h2>
 
 
 💻 Right now I'm studying software development.  
@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrelyah&layout=compact)](https://github.com/awrelyah/github-readme-stats)
 
-
+</div>
 <!--
 **awrelyah/awrelyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
