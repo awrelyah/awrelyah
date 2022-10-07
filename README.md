@@ -5,8 +5,9 @@
 📌 I'm currently focusing on everything front end.  
 🌱 Recently started to learn React.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrelyah&layout=compact)](https://github.com/awrelyah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrelyah&layout=compact&theme=radical)](https://github.com/awrelyah/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=sass,html,js,react,css&theme=dark)](https://skillicons.dev)
 </div>
 <!--
 **awrelyah/awrelyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
