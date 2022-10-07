@@ -1,9 +1,6 @@
 <div align="center"> <h2>Hey there 👋</h2>
 
-
-💻 Right now I'm studying software development.  
-📌 I'm currently focusing on everything front end.  
-🌱 Recently started to learn React.  
+Right now I'm studying software development. I'm mostly focusing on front end right now and just recently started to learn React. 🌱 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrelyah&layout=compact&theme=radical)](https://github.com/awrelyah/github-readme-stats)
 
