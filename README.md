@@ -5,7 +5,7 @@
 - 📌 I'm currently focusing on everything front end.
 - 🌱 Recently started to learn React.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrelyah&layout=compact)](https://github.com/awrelyah/github-readme-stats)
 
 
 <!--
