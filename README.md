@@ -3,7 +3,7 @@
 
 - 💻 Right now I'm studying software development.
 - 📌 I'm currently focusing on everything front end.
-- 🌱 Currently learning React.
+- 🌱 Recently started to learn React.
 
 
 
