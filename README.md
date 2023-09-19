@@ -1,7 +1,7 @@
 <div align="center"> <h2> hey there 👋🏼 </h2>
 
-- studying software development
-- mostly into front end and web development 👩🏼‍💻
+⚡ studying software development <br>
+⚡ mostly into front-end and web development 👩🏼‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrelyah&layout=compact&theme=radical)](https://github.com/awrelyah/github-readme-stats)
 
